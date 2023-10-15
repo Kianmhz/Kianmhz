@@ -8,7 +8,7 @@ A dedicated Software Developer driven by creativity, innovation, and a continuou
 
 - Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 - Frontend: ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?logo=nuxt.js&logoColor=white)
-- Backend: ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-Django%20Rest%20Framework-blue?logo=django&logoColor=white)
+- Backend: ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-red?logo=django&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
 ## 🤝 Let's Connect!
