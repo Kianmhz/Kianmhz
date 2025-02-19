@@ -1,4 +1,4 @@
-# Hello, It's Kianmehr! 👋
+# Hello, It's Kian! 👋
 
 A dedicated Software Developer driven by creativity, innovation, and a continuous quest for proficiency. Every project I pursue is a journey of exploration, dedication, and a drive for excellence. As a student of Software Engineering at Ontario Tech, I'm shaping the digital realm with my expertise in Vue, Nuxt, Django, and the Django Rest Framework (DRF). 
 
